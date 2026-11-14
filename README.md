@@ -1,5 +1,7 @@
 # Software-Engineering
 
+![Computer](images/computer.gif)
+
 A complete collection of Software Engineering study materials, including chapters, lecture slides, summaries, and learning resources for Software Engineering.
 
 This repository gathers everything related to the Software Engineering major in one place, organized by year, semester, and course.
@@ -10,7 +12,7 @@ This repository gathers everything related to the Software Engineering major in 
 Year/
 └── Semester/
     └── Course/
-        └──  Course Content/
+        └── Course Content/
 ```
 
 - Each **year** contains its **semesters**.
